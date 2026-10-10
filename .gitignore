@@ -1,0 +1,14 @@
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+model/*.joblib
+data/*.csv
+mlruns/
+.mlflow/
